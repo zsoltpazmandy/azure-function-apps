@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26621.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-function-apps", "azure-function-apps\azure-function-apps.csproj", "{ADFB8DC4-8AB7-453A-8148-7F8D8DC0BD8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADFB8DC4-8AB7-453A-8148-7F8D8DC0BD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFB8DC4-8AB7-453A-8148-7F8D8DC0BD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFB8DC4-8AB7-453A-8148-7F8D8DC0BD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFB8DC4-8AB7-453A-8148-7F8D8DC0BD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3190035D-21E4-4D71-95F1-0E5886D175AB}
+	EndGlobalSection
+EndGlobal
